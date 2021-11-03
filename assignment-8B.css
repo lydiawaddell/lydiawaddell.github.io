@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white
+}
+h2{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white
+}
+p{
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    color:white
+}
