@@ -1,0 +1,65 @@
+body{ 
+    background-image: url(graphics/lacrosse_field.jfif);
+}
+h1{
+    color: white; 
+    text-align: center;
+    font-size: 45px;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 36px;
+}
+p{
+    color: white;
+    font-size: 24px;
+}
+h3{
+    color: white;
+    text-align: center;
+    font-size:36px;
+}
+h4{
+    color: white;
+    text-align: center;
+    font-size: 36px;
+}
+h5{
+    color: white;
+    text-align: center;
+    font-size: 36px;
+}
+.div1{ 
+    position: absolute;
+    height: 100px;
+    width: 600px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.div2{
+    position: absolute;
+    height: 100px;
+    width: 600px;
+    border-radius: 20px;
+    margin-top: 200px;
+    margin-left: 650px; 
+}
+.div3{
+    position: absolute;
+    height: 100px;
+    width: 600px;
+    border-radius: 20px;
+    margin-top: 400px;
+    margin-left: 20px;
+}
+.div4{
+    position: absolute;
+    height: 100px;
+    width: 600px;
+    border-radius: 20px;
+    margin-top: 600px;
+    margin-left: 650px;
+    margin-bottom: 200px;
+}
